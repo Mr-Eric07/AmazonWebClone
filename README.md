@@ -1,2 +1,2 @@
 # AmazonWebClone
-Its is HomePage Frontend copy of amazon.com
+HomePage Frontend copy of amazon.com
