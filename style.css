@@ -3,9 +3,9 @@
     box-sizing: border-box;
 }
 
-/* body{
+body{
     zoom:0.5;
-} */
+}
 
 #navbar {
     display: flex;
