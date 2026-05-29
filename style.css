@@ -301,7 +301,6 @@ background-size:3000px 1100px;
 
 display: flex;
 flex-direction: column;
-/* justify-content: center; */
 align-items: center;
 }
 
@@ -311,7 +310,6 @@ align-items: center;
     height:80px;
     width:97%;
     background-color:#f5f6f6;
-    /* margin:500px 0px 0px 0px; */
     text-align: center;
     
     padding:20px;
@@ -338,10 +336,8 @@ align-items: center;
     background-color: transparent;
     position: relative;
     top:520px;
-    /* border: 2px solid white; */
     display:flex;
     flex-direction: column;
-    /* justify-content: space-evenly; */
 
 }
 .productdivhalf1{
@@ -363,7 +359,6 @@ flex-direction: column;
 align-items: center;
 justify-content: center;
 
-/* background:transparent; */
 }
 #productdiv2{    
     height:100%;
@@ -422,7 +417,6 @@ justify-content: center;
     height:100%;
     width:25%;
     background-color: white;
-    /* margin:0px 30px 0px 0px; */
     
 }
 
@@ -431,26 +425,22 @@ justify-content: center;
     height:70%;
     width: 85%;
     background-image:url("images/p1.jpg");
-    /* background-image: url("p1.jpg"); */
 background-repeat: no-repeat;
 background-size: cover;
 background-color: #232f3e;
-/* margin:10px 0px 10px 0px; */
 position: relative;
-/* bottom: 20px; */
 
-/* background-size:90% 70%; */
 }
 #productdiv1 h2{
-    /* position: relative; */
+  
     position:absolute;
     font-size:300%;
     font-weight:650;
-    /* margin-top: 0px; */
+   
     top:15px;
     left:50px;
     
-    /* text-align:start; */
+    
 }
 #product1link{
     height:40px;
@@ -466,8 +456,6 @@ position: relative;
     color:#2162a1;
     text-decoration: none;
     font-size:25px;
-    /* position:relative;
-    margin-left: 20px;; */
     
 }
 .productdiv2pics{
@@ -487,7 +475,7 @@ position: relative;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
-    /* margin:0px; */
+
 }
 .p3pic{
     height:45%;
@@ -523,28 +511,28 @@ position: relative;
     width:100%;
     background-color: white;
     height:10%;
-    /* text-align: center; */
+  
     font-size:25px;
 }
 .buypic3text{
     width:100%;
     background-color: white;
     height:10%;
-    /* text-align: center; */
+ 
     font-size:25px;
 }
 .buypic4text{
     width:100%;
     background-color: white;
     height:10%;
-    /* text-align: center; */
+
     font-size:25px;
 }
 .buypic5text{
     width:100%;
     background-color: white;
     height:10%;
-    /* text-align: center; */
+   
     font-size:25px;
 }
 #productdiv2 h2{
@@ -552,14 +540,14 @@ position: relative;
     height:60px;
     width:80%;
     margin:0px 20px 0px 40px;
-    /* text-align: center; */
+   
 }
 
 .p2link a{
     color:#2162a1;
     text-decoration: none;
     font-size:25px;
-    /* margin:0px 20px 40px 40px; */
+    
     position: relative;
     left:30px;
     bottom:15px;
@@ -585,7 +573,7 @@ position: relative;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
-    /* margin:0px; */
+   
 }
 .p7pic{
     height:40%;
@@ -621,28 +609,28 @@ position: relative;
     width:100%;
     background-color: white;
     height:10%;
-    /* text-align: center; */
+   
     font-size:25px;
 }
 .buypic7text{
     width:100%;
     background-color: white;
     height:10%;
-    /* text-align: center; */
+  
     font-size:25px;
 }
 .buypic8text{
     width:100%;
     background-color: white;
     height:10%;
-    /* text-align: center; */
+    
     font-size:25px;
 }
 .buypic9text{
     width:100%;
     background-color: white;
     height:10%;
-    /* text-align: center; */
+    
     font-size:25px;
 }
 #productdiv3 h2{
@@ -650,14 +638,14 @@ position: relative;
     height:60px;
     width:80%;
     margin:0px 20px 60px 40px;
-    /* text-align: center; */
+ 
 }
 
 .p3link a{
     color:#2162a1;
     text-decoration: none;
     font-size:25px;
-    /* margin:0px 20px 40px 40px; */
+    
     position: relative;
     left:30px;
     bottom:30px;
@@ -665,7 +653,7 @@ position: relative;
 
 }
 
-/* pasted */
+
 
 .productdiv4pics{
     height:80%;
@@ -684,7 +672,7 @@ position: relative;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
-    /* margin:0px; */
+    
 }
 .p11pic{
     height:40%;
@@ -720,28 +708,28 @@ position: relative;
     width:100%;
     background-color: white;
     height:10%;
-    /* text-align: center; */
+  
     font-size:25px;
 }
 .buypic11text{
     width:100%;
     background-color: white;
     height:10%;
-    /* text-align: center; */
+  
     font-size:25px;
 }
 .buypic12text{
     width:100%;
     background-color: white;
     height:10%;
-    /* text-align: center; */
+    
     font-size:25px;
 }
 .buypic13text{
     width:100%;
     background-color: white;
     height:10%;
-    /* text-align: center; */
+    
     font-size:25px;
 }
 #productdiv4 h2{
@@ -749,14 +737,14 @@ position: relative;
     height:60px;
     width:80%;
     margin:0px 20px 60px 40px;
-    /* text-align: center; */
+    
 }
 
 .p4link a{
     color:#2162a1;
     text-decoration: none;
     font-size:25px;
-    /* margin:0px 20px 40px 40px; */
+    
     position: relative;
     left:30px;
     bottom:30px;
@@ -764,7 +752,7 @@ position: relative;
 
 }
 
-/* pasted div 6*/
+
 
 .productdiv6pics{
     height:80%;
@@ -783,7 +771,7 @@ position: relative;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
-    /* margin:0px; */
+   
 }
 .p19pic{
     height:40%;
@@ -819,28 +807,28 @@ position: relative;
     width:100%;
     background-color: white;
     height:10%;
-    /* text-align: center; */
+    
     font-size:25px;
 }
 .buypic19text{
     width:100%;
     background-color: white;
     height:10%;
-    /* text-align: center; */
+    
     font-size:25px;
 }
 .buypic20text{
     width:100%;
     background-color: white;
     height:10%;
-    /* text-align: center; */
+    
     font-size:25px;
 }
 .buypic21text{
     width:100%;
     background-color: white;
     height:10%;
-    /* text-align: center; */
+    
     font-size:25px;
 }
 #productdiv6 h2{
@@ -848,14 +836,14 @@ position: relative;
     height:60px;
     width:80%;
     margin:0px 20px 60px 40px;
-    /* text-align: center; */
+    
 }
 
 .p6link a{
     color:#2162a1;
     text-decoration: none;
     font-size:25px;
-    /* margin:0px 20px 40px 40px; */
+    
     position: relative;
     left:30px;
     bottom:30px;
@@ -863,7 +851,7 @@ position: relative;
 
 }
 
-/* pasted div 7 */
+
 
 
 .productdiv7pics{
@@ -883,7 +871,7 @@ position: relative;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
-    /* margin:0px; */
+ 
 }
 .p23pic{
     height:40%;
@@ -919,28 +907,28 @@ position: relative;
     width:100%;
     background-color: white;
     height:10%;
-    /* text-align: center; */
+    
     font-size:25px;
 }
 .buypic23text{
     width:100%;
     background-color: white;
     height:10%;
-    /* text-align: center; */
+    
     font-size:25px;
 }
 .buypic24text{
     width:100%;
     background-color: white;
     height:10%;
-    /* text-align: center; */
+    
     font-size:25px;
 }
 .buypic25text{
     width:100%;
     background-color: white;
     height:10%;
-    /* text-align: center; */
+    
     font-size:25px;
 }
 #productdiv7 h2{
@@ -948,14 +936,14 @@ position: relative;
     height:60px;
     width:80%;
     margin:0px 20px 60px 40px;
-    /* text-align: center; */
+    
 }
 
 .p7link a{
     color:#2162a1;
     text-decoration: none;
     font-size:25px;
-    /* margin:0px 20px 40px 40px; */
+    
     position: relative;
     left:30px;
     bottom:30px;
@@ -963,7 +951,7 @@ position: relative;
 
 }
 
-/* pasted div 8 */
+
 
 .productdiv8pics{
     height:80%;
@@ -982,7 +970,7 @@ position: relative;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
-    /* margin:0px; */
+    
 }
 .p27pic{
     height:40%;
@@ -1018,28 +1006,28 @@ position: relative;
     width:100%;
     background-color: white;
     height:10%;
-    /* text-align: center; */
+    
     font-size:25px;
 }
 .buypic27text{
     width:100%;
     background-color: white;
     height:10%;
-    /* text-align: center; */
+    
     font-size:25px;
 }
 .buypic28text{
     width:100%;
     background-color: white;
     height:10%;
-    /* text-align: center; */
+    
     font-size:25px;
 }
 .buypic29text{
     width:100%;
     background-color: white;
     height:10%;
-    /* text-align: center; */
+    
     font-size:25px;
 }
 #productdiv8 h2{
@@ -1047,21 +1035,21 @@ position: relative;
     height:60px;
     width:80%;
     margin:0px 20px 60px 40px;
-    /* text-align: center; */
+    
 }
 
 .p8link a{
     color:#2162a1;
     text-decoration: none;
     font-size:25px;
-    /* margin:0px 20px 40px 40px; */
+    
     position: relative;
     left:30px;
     bottom:30px;
 
 
 }
-/* pasted div 5 */
+
 
 .productdiv5pics{
     height:80%;
@@ -1080,7 +1068,7 @@ position: relative;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
-    /* margin:0px; */
+    
 }
 .p15pic{
     height:30%;
@@ -1116,28 +1104,28 @@ position: relative;
     width:100%;
     background-color: white;
     height:10%;
-    /* text-align: center; */
+    
     font-size:25px;
 }
 .buypic15text{
     width:100%;
     background-color: white;
     height:10%;
-    /* text-align: center; */
+    
     font-size:25px;
 }
 .buypic16text{
     width:100%;
     background-color: white;
     height:10%;
-    /* text-align: center; */
+    
     font-size:25px;
 }
 .buypic17text{
     width:100%;
     background-color: white;
     height:10%;
-    /* text-align: center; */
+    
     font-size:25px;
 }
 #productdiv5 h2{
@@ -1145,14 +1133,14 @@ position: relative;
     height:60px;
     width:80%;
     margin:0px 20px 60px 40px;
-    /* text-align: center; */
+    
 }
 
 .p5link a{
     color:#2162a1;
     text-decoration: none;
     font-size:25px;
-    /* margin:0px 20px 40px 40px; */
+    
     position: relative;
     left:30px;
     bottom:30px;
@@ -1192,8 +1180,7 @@ position: relative;
 }
 
 .f1div3{
-    /* height: 59px;
-    width:3000px; */
+   
     height:80px;
     width:100%;
     text-align: center;
@@ -1232,7 +1219,7 @@ position: relative;
     width:400px;
     height:700px;
     font-size:25px;
-    /* background-color: black; */
+   
 
 }
 .f3divheading{
@@ -1276,7 +1263,7 @@ li{
 .f4div1{
     height:100px;
     width:300px;
-    /* border:1px solid white; */
+    
     background-image: url("images/amazonlogo2.png");
     background-size: cover;
     position: relative;
@@ -1285,7 +1272,7 @@ li{
 .f4div2{
     height:80px;
     width:900px;
-    /* border:1px solid white; */
+    
     display:flex;
     justify-content: space-evenly;
     position: relative;
@@ -1331,7 +1318,7 @@ li{
     margin:0px 10px 0px 30px;
 }
 .globe i{
-    /* font-weight:500; */
+   
     font-size:30px;
     text-align: center;
 }
@@ -1339,7 +1326,7 @@ li{
     height:100%;
     width:70%;
     font-size:25px;
-    /* text-align: center; */
+    
     padding:20px 0px 10px 10px;;
 }
 .angle{
