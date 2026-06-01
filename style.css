@@ -1201,9 +1201,10 @@ position: relative;
     justify-content: center;
 }
 
-.f2div1{
+.f2div1 a{
     color:white;
     font-size:25px;
+    text-decoration:none;
 }
 .footer3{
     width:100%;
