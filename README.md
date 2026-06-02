@@ -4,7 +4,7 @@ This is my first web development project built using HTML and CSS.
 
 ## Features
 
-* Responsive layout (if applicable)
+* Responsive layout
 * Modern user interface
 * Custom styling using CSS
 * Beginner-friendly project structure
