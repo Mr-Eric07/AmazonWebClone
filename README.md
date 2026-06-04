@@ -36,4 +36,4 @@ This project helped me practice:
 
 ## Project Link
 
-url : https://amazon-web-clone-six.vercel.app/
+url : https://Ecom-web-clone-six.vercel.app/
