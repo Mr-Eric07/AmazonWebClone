@@ -4,7 +4,7 @@ This is my first web development project built using HTML and CSS.
 
 ## Features
 
-* Responsive layout (if applicable)
+* Responsive layout
 * Modern user interface
 * Custom styling using CSS
 * Beginner-friendly project structure
@@ -36,4 +36,4 @@ This project helped me practice:
 
 ## Project Link
 
-url : https://Ecom-web-clone-six.vercel.app/
+url : https://amazon-web-clone-six.vercel.app/
